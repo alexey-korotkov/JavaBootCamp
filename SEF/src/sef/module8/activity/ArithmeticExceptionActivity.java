@@ -2,7 +2,9 @@ package sef.module8.activity;
 // Needs to be completed
 public class ArithmeticExceptionActivity {
 	//1 - Type main method and call catchMe with 10 and 0
-
+public static void main(){
+	catchMe(10,0);
+}
 
 void catchMe(int num1, int num2)
 {

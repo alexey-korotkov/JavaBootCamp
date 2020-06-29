@@ -7,8 +7,8 @@ public class InheritanceActivity {
 	public static void main(String[] args) {
 		
 		// Create Person object p. Write code to and set name of Person as Sarah Johnson
-		// and age as 21
-		
+		// and age as 21 
+		Person_I p = new Person_I
 		
 		
 		System.out.println("-----------------------------");
